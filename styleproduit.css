@@ -67,9 +67,9 @@ main {
  }
 
  .farine {
-   background-color: red;
+
    justify-content: center;
-   margin: 10px;
+   margin: 0px;
 }
 .definitonlepain {
   flex-direction: row;
